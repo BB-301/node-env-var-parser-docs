@@ -1,0 +1,3 @@
+# Documentation Website: Simple Node.js Environment Variables Parser
+
+This is the source code for the [typedoc](https://github.com/TypeStrong/typedoc)-generated documentation website for my [node-env-var-parser](https://github.com/BB-301/node-env-var-parser) repository, which contains **a simple Node.js package (written in TypeScript) containing a set of convenience functions that can be used for retrieving environment variables and casting them into specific types**.
